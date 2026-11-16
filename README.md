@@ -7,8 +7,8 @@ Rocky Linux 환경에서 Boot, Kernel, Storage, Network, Process, SELinux 등 �
 실습 과정에서 발생한 문제와 원인, 해결 방법을 기록합니다.
 
 
+---
 
-# RH342 Linux Troubleshooting Lab
 
 Rocky Linux 8.10 환경에서 진행한 RH342 기반 Break/Fix 실습 기록입니다.
 
